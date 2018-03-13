@@ -1,0 +1,7 @@
+2017-11-14 14:30:01,221 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 4.355248928070068 seconds
+2017-11-14 14:30:02,350 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1260645389556885 seconds
+2017-11-14 14:30:03,449 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 1.0980627536773682 seconds
+2017-11-14 14:30:03,680 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.22901320457458496 seconds
+2017-11-14 14:30:03,758 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.0760042667388916 seconds
+2017-11-14 14:30:05,782 - root - INFO - SUCCESS    Get current window title, Spend 0.022001266479492188 seconds
+2017-11-14 14:30:08,864 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0771758556365967 seconds

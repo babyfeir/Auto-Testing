@@ -1,0 +1,9 @@
+2017-11-16 15:16:08,571 - root - INFO - ############################### START ###############################
+2017-11-16 15:16:17,770 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 9.198526382446289 seconds
+2017-11-16 15:16:18,917 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1460654735565186 seconds
+2017-11-16 15:16:24,049 - root - INFO - FAIL    Unable switch to frame element: <id->x-URS-iframe>, Spend 5.130293369293213 seconds
+2017-11-16 15:16:27,140 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.089176654815674 seconds
+2017-11-16 15:16:27,142 - root - INFO - ###############################  End  ###############################
+2017-11-16 15:16:31,564 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 4.403251886367798 seconds
+2017-11-16 15:16:32,696 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1310646533966064 seconds
+2017-11-16 15:16:35,718 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0211730003356934 seconds

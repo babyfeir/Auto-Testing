@@ -1,0 +1,28 @@
+2017-11-14 16:13:47,221 - root - INFO - ############################### START ###############################
+2017-11-14 16:13:51,537 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 4.314246654510498 seconds
+2017-11-14 16:13:52,663 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1240642070770264 seconds
+2017-11-14 16:13:54,121 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 1.4580833911895752 seconds
+2017-11-14 16:13:54,328 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.20501160621643066 seconds
+2017-11-14 16:13:54,432 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.10400581359863281 seconds
+2017-11-14 16:13:56,451 - root - INFO - SUCCESS    Get current window title, Spend 0.017000913619995117 seconds
+2017-11-14 16:13:59,515 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0621752738952637 seconds
+2017-11-14 16:13:59,517 - root - INFO - ###############################  End  ###############################
+2017-11-14 16:14:03,659 - root - INFO - SUCCESS    Start a new browser: Chrome, Spend 4.139236927032471 seconds
+2017-11-14 16:14:04,781 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1210641860961914 seconds
+2017-11-14 16:14:06,072 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 1.1580662727355957 seconds
+2017-11-14 16:14:06,257 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.18401050567626953 seconds
+2017-11-14 16:14:06,344 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08600497245788574 seconds
+2017-11-14 16:14:08,359 - root - INFO - SUCCESS    Get current window title, Spend 0.014000654220581055 seconds
+2017-11-14 16:14:08,590 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.23001313209533691 seconds
+2017-11-14 16:14:08,866 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.2740156650543213 seconds
+2017-11-14 16:14:14,009 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 5.141294240951538 seconds
+2017-11-14 16:14:16,024 - root - INFO - SUCCESS    Get current window title, Spend 0.014000892639160156 seconds
+2017-11-14 16:14:16,198 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.1740100383758545 seconds
+2017-11-14 16:14:16,315 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.11700677871704102 seconds
+2017-11-14 16:14:21,442 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 5.125293254852295 seconds
+2017-11-14 16:14:23,454 - root - INFO - SUCCESS    Get current window title, Spend 0.011000633239746094 seconds
+2017-11-14 16:14:23,677 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.22201275825500488 seconds
+2017-11-14 16:14:23,825 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.14700841903686523 seconds
+2017-11-14 16:14:28,921 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 5.093291282653809 seconds
+2017-11-14 16:14:30,937 - root - INFO - SUCCESS    Get current window title, Spend 0.014000654220581055 seconds
+2017-11-14 16:14:34,001 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0621752738952637 seconds
